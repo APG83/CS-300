@@ -1,1 +1,7 @@
-# CS-300
+# CS 300 Portfolio Reflection
+
+In CS 300, I completed two projects that highlighted the importance of data structures and algorithms in software development. Project One involved analyzing the run-time efficiency and memory usage of various data structures, which helped me understand the trade-offs between performance and resource consumption. Project Two focused on implementing a course planner that could load course data, sort it in alphanumeric order, and provide detailed information when requested. Together, these projects demonstrated the practical applications of algorithm analysis and data structure selection.  
+
+I approached these challenges by carefully reviewing the requirements, then determining which data structures would meet the needs most effectively. Understanding the strengths and weaknesses of arrays, hash tables, and binary search trees was key to making informed decisions. When I encountered issues, such as debugging parsing errors or handling edge cases in sorting, I broke the problem into smaller steps, tested incrementally, and used debugging strategies to find solutions.  
+
+Working on these projects has expanded my perspective on software design by showing me how much performance and maintainability depend on early design decisions. I now think more critically about algorithm efficiency and scalability rather than just producing functional code. Additionally, I have improved at writing cleaner, more modular programs that are easier to read, maintain, and adapt to future needs.
