@@ -1,7 +1,22 @@
-# CS 300 Portfolio Reflection
+CS 300: Advanced Software Development
+Portfolio Reflection
 
-In CS 300, I completed two projects that highlighted the importance of data structures and algorithms in software development. Project One involved analyzing the run-time efficiency and memory usage of various data structures, which helped me understand the trade-offs between performance and resource consumption. Project Two focused on implementing a course planner that could load course data, sort it in alphanumeric order, and provide detailed information when requested. Together, these projects demonstrated the practical applications of algorithm analysis and data structure selection.  
+In CS 300, I completed two projects that emphasized the importance of data structures and algorithms in practical software development:
 
-I approached these challenges by carefully reviewing the requirements, then determining which data structures would meet the needs most effectively. Understanding the strengths and weaknesses of arrays, hash tables, and binary search trees was key to making informed decisions. When I encountered issues, such as debugging parsing errors or handling edge cases in sorting, I broke the problem into smaller steps, tested incrementally, and used debugging strategies to find solutions.  
+Project One – Analyzed run-time efficiency and memory usage of various data structures, gaining insight into the trade-offs between performance and resource consumption.
 
-Working on these projects has expanded my perspective on software design by showing me how much performance and maintainability depend on early design decisions. I now think more critically about algorithm efficiency and scalability rather than just producing functional code. Additionally, I have improved at writing cleaner, more modular programs that are easier to read, maintain, and adapt to future needs.
+Project Two – Implemented a course planner capable of loading course data, sorting it alphanumerically, and providing detailed information on demand.
+
+Approach and Problem-Solving
+
+I began by carefully reviewing project requirements and selecting data structures that best fit each task. Understanding the strengths and weaknesses of arrays, hash tables, and binary search trees was critical for making informed design decisions. Challenges such as parsing errors or edge cases in sorting were addressed by breaking problems into smaller steps, testing incrementally, and applying structured debugging strategies.
+
+Key Takeaways
+
+Early design decisions greatly affect performance and maintainability.
+
+Algorithm efficiency and scalability are as important as producing functional code.
+
+Writing modular, well-documented code improves readability, maintainability, and adaptability for future projects.
+
+These projects strengthened my ability to evaluate, implement, and optimize data structures while reinforcing best practices in clean and maintainable software design.
